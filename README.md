@@ -1,0 +1,1 @@
+This repository demonstrates a common numeric overflow bug in COBOL programs and its solution. The bug arises from the absence of range checks in calculations, leading to unpredictable results or program crashes when a numeric field exceeds its defined capacity. The solution involves implementing explicit checks before operations that might cause overflow. 
